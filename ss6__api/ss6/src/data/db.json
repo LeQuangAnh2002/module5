@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "HaiTT1",
+      "classroom": {
+        "id": 1,
+        "nameClass": "A03"
+      },
+      "gender": true
+    },
+    {
+      "id": 2,
+      "name": "HaiTT2",
+      "classroom": {
+        "id": 1,
+        "nameClass": "A03"
+      },
+      "gender": false
+    },
+    {
+      "id": 3,
+      "name": "TrungDP",
+      "gender": 1
+    },
+    {
+      "id": 4,
+      "name": "TrungDC",
+      "gender": 1,
+      "classroom": "[object Object]"
+    },
+    {
+      "id": 6,
+      "name": "TienNVT",
+      "gender": 1,
+      "classroom": {
+        "id": 2,
+        "nameClass": "A06"
+      }
+    }
+  ],
+  "classrooms": [
+    {
+      "id": 1,
+      "nameClass": "A03"
+    },
+    {
+      "id": 2,
+      "nameClass": "A06"
+    }
+  ]
+}

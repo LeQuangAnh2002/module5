@@ -1,0 +1,206 @@
+{
+  "customers": [
+    {
+      "name": "Huy",
+      "birthday": "2020-10-20",
+      "gender": "Male",
+      "cardNumber": "129381082",
+      "phoneNumber": "0901212132",
+      "email": "Huy@gmail.com",
+      "customerType": "Diamond",
+      "address": "Da Nang",
+      "id": "2"
+    },
+    {
+      "name": "Hai",
+      "birthday": "2020-11-11",
+      "gender": "Male",
+      "cardNumber": "019820189",
+      "phoneNumber": "0901919199",
+      "email": "Hai@gmail.com",
+      "customerType": "VIP",
+      "address": "Hòa khánh",
+      "id": "3"
+    },
+    {
+      "name": "Phuc",
+      "birthday": "1994-03-05",
+      "gender": "FeMale",
+      "cardNumber": "091212831",
+      "phoneNumber": "0901281239",
+      "email": "Phuc@gmail.com",
+      "customerType": "Silver",
+      "address": "GiaLai",
+      "id": "4"
+    }
+  ],
+  "employee": [
+    {
+      "id": 0,
+      "name": "Phuc",
+      "birthday": "1994-03-05",
+      "cardNumber": "091212831",
+      "phoneNumber": "0901281239",
+      "email": "Phuc@gmail.com",
+      "education": {
+        "id": "1",
+        "name": "Trung cấp"
+      },
+      "position": {
+        "id": "1",
+        "name": "Lễ Tân"
+      },
+      "division": {
+        "id": "1",
+        "name": "Sale-Marketing"
+      },
+      "salary": "100000"
+    },
+    {
+      "id": 1,
+      "name": "Lê Quang Ánh",
+      "birthday": "2024-03-14",
+      "cardNumber": "0913213123",
+      "phoneNumber": "0901281239",
+      "email": "quangngocbqn@gmail.com",
+      "education": {
+        "id": "4",
+        "name": "Sau đại học"
+      },
+      "position": {
+        "id": "3",
+        "name": "Chuyên Viên"
+      },
+      "division": {
+        "id": "2",
+        "name": "Hành Chính"
+      },
+      "salary": "23324243"
+    },
+    {
+      "id": 2,
+      "name": "Latitude",
+      "birthday": "2024-03-15",
+      "cardNumber": "0913213123",
+      "phoneNumber": "0901281239",
+      "email": "quangngocbqn@gmail.com",
+      "education": {
+        "id": "3",
+        "name": "Đại Học"
+      },
+      "position": {
+        "id": "4",
+        "name": "Giám Sát"
+      },
+      "division": {
+        "id": "3",
+        "name": "Phục Vụ"
+      },
+      "salary": "210000000"
+    },
+    {
+      "id": 3,
+      "name": "vũ văn toàn",
+      "birthday": "2024-03-17",
+      "cardNumber": "0913213123",
+      "phoneNumber": "0901281239",
+      "email": "Cuongho167777@gmail.com",
+      "education": {
+        "id": "4",
+        "name": "Sau đại học"
+      },
+      "position": {
+        "id": "3",
+        "name": "Chuyên Viên"
+      },
+      "division": {
+        "id": "3",
+        "name": "Phục Vụ"
+      },
+      "salary": "210000000"
+    },
+    {
+      "id": "be3d",
+      "name": "MSI",
+      "birthday": "2024-03-05",
+      "cardNumber": "0913213123",
+      "phoneNumber": "0905869396",
+      "email": "quangngocbqn@gmail.com",
+      "education": {
+        "id": "2",
+        "name": "Cao Đẳng"
+      },
+      "position": {
+        "id": "2",
+        "name": "Phục Vụ"
+      },
+      "division": {
+        "id": "3",
+        "name": "Phục Vụ"
+      },
+      "salary": "10000000"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "name": "Trung cấp"
+    },
+    {
+      "id": "2",
+      "name": "Cao Đẳng"
+    },
+    {
+      "id": "3",
+      "name": "Đại Học"
+    },
+    {
+      "id": "4",
+      "name": "Sau đại học"
+    }
+  ],
+  "position": [
+    {
+      "id": "1",
+      "name": "Lễ Tân"
+    },
+    {
+      "id": "2",
+      "name": "Phục Vụ"
+    },
+    {
+      "id": "3",
+      "name": "Chuyên Viên"
+    },
+    {
+      "id": "4",
+      "name": "Giám Sát"
+    },
+    {
+      "id": "5",
+      "name": "Quản Lý"
+    },
+    {
+      "id": "6",
+      "name": "Giám Đốc"
+    }
+  ],
+  "division": [
+    {
+      "id": "1",
+      "name": "Sale-Marketing"
+    },
+    {
+      "id": "2",
+      "name": "Hành Chính"
+    },
+    {
+      "id": "3",
+      "name": "Phục Vụ"
+    },
+    {
+      "id": "4",
+      "name": "Quản Lý"
+    }
+  ]
+}

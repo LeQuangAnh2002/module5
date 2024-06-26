@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5260dff9-67fa-4712-990f-e0f50368905b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Tài liệu/.idea/Tài liệu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-with-webpack/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-with-webpack/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-with-webpack/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-with-webpack/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-with-webpack/webpack.cofig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/currency-conversion/src/main/java/codegym/vn/currencyconversion/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/currency-conversion/src/main/java/codegym/vn/currencyconversion/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/currency-conversion/src/main/java/codegym/vn/currencyconversion/controller/ConverterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/currency-conversion/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/currency-conversion/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/spring-greeting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/thu-vien/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/thu-vien/src/main/java/codegym/vn/thuvien/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/thu-vien/src/main/java/codegym/vn/thuvien/config/Appinitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/thu-vien/src/main/java/codegym/vn/thuvien/controller/LibraryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/thu-vien/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moudle4/ss1/thu-vien/src/main/webapp/WEB-INF/view/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/Audit_Module 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../A1222I1/Audit_Module 3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/CG-DN Case Study for Database_v1.2_Answer_and_Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../A1222I1/CG-DN Case Study for Database_v1.2_Answer_and_Data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/casestudy/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/controller/FuramaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/controller/ServiceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/database/JDBCUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/filter/FilterUTF8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/AttachService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/Contract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/ContractDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/CustomerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/EducationDegree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/PositionEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/RentType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/model/ServiceType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/customer/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/customer/CustomerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/customer/CustomerTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/customer/CustomerTypeRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/DivisionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/DivisionRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/EducationRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/EducationRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/EmployeeRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/PositionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/employee/PositionRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/servicefurama/RentTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/servicefurama/RentTypeRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/servicefurama/ServiceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/servicefurama/ServiceRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/servicefurama/ServiceTypeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/repository/servicefurama/ServiceTypeRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/customer/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/customer/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/customer/CustomerTypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/customer/CustomerTypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/DivisionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/DivisionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/EducationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/EducationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/EmployeeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/PositionSeriveImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/employee/PositionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/servicefurama/RentTypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/servicefurama/RentTypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/servicefurama/ServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/servicefurama/ServiceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/servicefurama/ServiceTypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/service/servicefurama/ServiceTypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/classes/com/codegym/util/ValidateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/customer/customer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/customer/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/employee/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/employee/employee.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/employee/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/service/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/service/service.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/WEB-INF/service/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/SLIDE-MOVENPICK-PQ-THANG-07-min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/about_banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/avatar_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/furama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/product_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/product_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/product_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/product_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/product_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/product_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/to_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/assets/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../A1222I1/apache-tomcat-9.0.76/webapps/ROOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tài liệu/codegym/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tài liệu/codegym/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tài liệu/codegym/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tài liệu/codegym/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module2/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../module2/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2bJSQYEoscZUNLJGvNZjXlsXw1J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ss3-component/thuchanh/demo-props" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\module5\ss2\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5260dff9-67fa-4712-990f-e0f50368905b" name="Default Changelist" comment="" />
+      <created>1705931672860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705931672860</updated>
+      <workItem from="1705931674052" duration="1946000" />
+      <workItem from="1706194397131" duration="7178000" />
+      <workItem from="1706272932800" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1706273615430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1706273615430" />
+  </component>
+</project>

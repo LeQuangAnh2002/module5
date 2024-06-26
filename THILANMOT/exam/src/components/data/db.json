@@ -1,0 +1,154 @@
+{
+  "product": [
+    {
+      "id": "PROD-0001",
+      "productName": "Máy đo huyết áp",
+      "quantity": "1000",
+      "price": "598000",
+      "inputDate": "2022-02-24",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0002",
+      "productName": "Nhiệt kế hồng ngoại",
+      "quantity": "5000",
+      "price": "130000",
+      "inputDate": "2023-02-24",
+      "category": {
+        "id": "4",
+        "name": "Thiết bị y tế"
+      }
+    },
+    {
+      "id": "PROD-0003",
+      "productName": "Efferalgan",
+      "quantity": "65",
+      "price": "30000",
+      "inputDate": "2023-02-24",
+      "category": {
+        "id": "3",
+        "name": "Được phẩm"
+      }
+    },
+    {
+      "id": "PROD-0005",
+      "productName": "Blackmores",
+      "quantity": "100",
+      "price": "531000",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0006",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "100",
+      "price": "2000000",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "2",
+        "name": "Thiết bị y tế"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "100",
+      "price": "2000000",
+      "inputDate": "2024-03-12",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "10",
+      "price": "100",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "10",
+      "price": "100",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "10",
+      "price": "100",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "10",
+      "price": "100",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "10",
+      "price": "100",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "productName": "Nhiệt kế tia hồng ngoại",
+      "quantity": "10",
+      "price": "100",
+      "inputDate": "2024-03-13",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng"
+      }
+    }
+  ],
+  "categorys": [
+    {
+      "id": "1",
+      "name": "Thực phẩm chức năng"
+    },
+    {
+      "id": "2",
+      "name": "Thiết bị y tế"
+    },
+    {
+      "id": "3",
+      "name": "Được phẩm"
+    },
+    {
+      "id": "4",
+      "name": "Thiết bị y tế"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "employee" : [
+    {
+      "id": "1",
+      "name": "Phuc",
+      "birthday": "1994-03-05",
+      "cardNumber": "091212831",
+      "phoneNumber": "0901281239",
+      "email": "Phuc@gmail.com",
+      "education" : {
+        "id" : "1",
+        "name": "Trung cấp"
+      },
+      "position" : {
+        "id" : "1",
+        "name": "Lễ Tân"
+      },
+      "division" :{
+        "id" : "1",
+        "name": "Sale-Marketing"
+      },
+      "salary": "100000"
+
+    }
+  ],
+  "education" : [
+    {
+      "id" : "1",
+      "name": "Trung cấp"
+    },
+    {
+      "id" : "2",
+      "name": "Cao Đẳng"
+    },
+    {
+      "id" : "3",
+      "name": "Đại Học"
+    },
+    {
+      "id" : "4",
+      "name": "Sau đại học"
+    }
+  ],
+  "position" : [
+    {
+      "id" : "1",
+      "name": "Lễ Tân"
+    },
+    {
+      "id" : "2",
+      "name": "Phục Vụ"
+    },
+    {
+      "id" : "3",
+      "name": "Chuyên Viên"
+    },
+    {
+      "id" : "4",
+      "name": "Giám Sát"
+    },
+    {
+      "id" : "5",
+        "name": "Quản Lý"
+    },
+    {
+      "id" : "6",
+      "name": "Giám Đốc"
+    }
+  ],
+  "division" : [
+    {
+      "id" : "1",
+      "name": "Sale-Marketing"
+    },
+    {
+      "id" : "2",
+      "name": "Hành Chính"
+    },
+    {
+      "id" : "3",
+      "name": "Phục Vụ"
+    },
+    {
+      "id" : "4",
+      "name": "Quản Lý"
+    }
+  ]
+}

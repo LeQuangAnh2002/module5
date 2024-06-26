@@ -1,0 +1,203 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+:root {
+  --color-text-head: white;
+} 
+
+/* Nền của các thẻ dịch vụ */
+/* Link ảnh  */
+/* https://i.pinimg.com/originals/61/b9/4f/61b94f4579fa5473cc81bb2985ea6292.jpg */
+.service-container {
+  /* background-image: url(''); */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Chỉnh nút sửa */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-container {
+  margin-top: auto;
+}
+
+.card-body .btn-edit {
+  margin-top: auto;
+}
+
+.content-slider {
+  display: flex;
+  justify-content: center;
+}
+
+.container-slider {
+  width: 80%;
+  height: 400px;
+}
+
+div#carouselExampleIndicators {
+  height: 100%;
+}
+
+.image-container {
+  height: auto;
+  width: auto;
+}
+
+.carousel-inner {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rounded-pill {
+  border-radius: 50px;
+}
+
+.main-menu {
+  align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-left {
+  width: 100px;
+}
+
+.logo-left img {
+  width: 100px;
+  height: 100px;
+  border-radius: 70%;
+}
+
+.contain-menu ul {
+  display: flex;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.contain-menu ul li {
+  list-style: none;
+  margin-right: 15px;
+}
+
+.contain-menu ul li a {
+  text-decoration: none;
+  color: var(--color-text-head);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.contain-menu ul li a:hover {
+  background-color: #61dafb;
+}
+
+.search-menu {
+  border-radius: 30px;
+  background-color: var(--color-text-head);
+}
+
+.search-menu input {
+  border: none;
+  outline: none;
+  border-radius: 30px;
+  padding: 5px 15px;
+}
+
+.search-menu button {
+  height: 100%;
+  width: 50px;
+  background-color: #61dafb;
+  padding: 5px;
+  border: none;
+  color: var(--color-text-head);
+  border-radius: 5px 30px 30px 5px;
+  font-weight: bold;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card {
+  width: calc(33.33% - 10px);
+  /* Để có 3 thẻ card trên cùng một dòng */
+  margin-bottom: 30px;
+}
+
+.pic {
+  height: 100px;
+  width: 100px;
+}
+
+.banner {
+  position: relative;
+  /*background-image: url('D:\V.An\Module05\case_study\furama\public\furama2.jpg');*/
+  /* Nhét ảnh vô đường dẫn trên  */
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  /* Điều chỉnh chiều cao của banner tùy theo nhu cầu */
+}
+
+.header-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.header-title h1 {
+  color: white;
+  font-size: 36px;
+  /* Các thuộc tính khác cho phần tử h1 */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
